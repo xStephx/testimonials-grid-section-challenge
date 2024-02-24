@@ -9,6 +9,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ![](./assets/images/screenshot.PNG)
 
+You can check it out live [here](https://xstephx.github.io/testimonials-grid-section-challenge/).
+
 ## My process
 
 ### Built with
