@@ -9,7 +9,10 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ![](./assets/images/screenshot.PNG)
 
-You can check it out live [here](https://xstephx.github.io/testimonials-grid-section-challenge/).
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-testimonials-grid-section-A_WYM7MYsc)
+- Live Site URL: [here](https://xstephx.github.io/testimonials-grid-section-challenge/)
 
 ## My process
 
